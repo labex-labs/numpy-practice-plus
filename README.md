@@ -11,8 +11,8 @@ In this course, You will practice more labs of NumPy. This will help you to mast
 
 ## Scenarios
 
-|   Index | Name                                                     | Difficulty   | URL                                                                        |
-|---------|----------------------------------------------------------|--------------|----------------------------------------------------------------------------|
+|   Index | Name                                                    | Difficulty   | URL                                                                        |
+|---------|---------------------------------------------------------|--------------|----------------------------------------------------------------------------|
 |      01 | 📖 Numpy Reshape Function                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/86496'>Start Lab</a>        |
 |      02 | 📖 Using the Add Function                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/86383'>Start Lab</a>        |
 |      03 | 📖 NumPy Array Creation                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/86395'>Start Lab</a>        |
