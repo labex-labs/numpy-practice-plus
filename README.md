@@ -11,7 +11,7 @@ In this course, You will practice more labs of NumPy. This will help you to mast
 
 ## Scenarios
 
-|   Index | Name                                                    | Difficulty   | URL                                                                        |
+|   Index | Name                                                    | Difficulty   | Practice                                                                   |
 |---------|---------------------------------------------------------|--------------|----------------------------------------------------------------------------|
 |      01 | 📖 Numpy Reshape Function                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/86496'>Start Lab</a>        |
 |      02 | 📖 Using the Add Function                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/86383'>Start Lab</a>        |
@@ -90,4 +90,9 @@ In this course, You will practice more labs of NumPy. This will help you to mast
 |      75 | 📖 Introduction to NumPy Universal Functions             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/85705'>Start Lab</a>        |
 |      76 | 📖 Mastering NumPy Broadcasting for Efficient Computa... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/85702'>Start Lab</a>        |
 |      77 | 📖 NumPy Array Creation                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/85698'>Start Lab</a>        |
+
+## More
+
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [NumPy Free Tutorials](https://github.com/labex-labs/numpy-free-tutorials)
 
