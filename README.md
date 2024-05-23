@@ -93,6 +93,7 @@ In this course, You will practice more labs of NumPy. This will help you to mast
 
 ## More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [NumPy Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [NumPy Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
 - 🔗 [NumPy Free Tutorials](https://github.com/labex-labs/numpy-free-tutorials)
 
